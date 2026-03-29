@@ -1,8 +1,8 @@
 🚀 Summary: Next 5 Tasks in Order
 
-Priority	Task	Tools	Folder
-✅ 1	Preprocess + extract features from WESAD	Colab, NeuroKit2	datasets/
-✅ 2	Train + quantize models	Colab, TFLite	esp32_firmware/
-✅ 3	Test inference with Docker	Docker, Python, TFLite	docker_testing/
-✅ 4	Convert + deploy to ESP32	Arduino IDE / ESP-IDF	esp32_firmware/
-✅ 5	Benchmark + log results	Manual or script	results/
+Priority	Task	  				Tools					Folder
+✅ 1	Preprocess + extract features from WESAD	Colab, NeuroKit2			datasets/
+✅ 2	Train + quantize models				Colab, TFLite				esp32_firmware/
+✅ 3	Test inference with Docker			Docker, Python, TFLite			docker_testing/
+✅ 4	Convert + deploy to ESP32			Arduino IDE / ESP-IDF			esp32_firmware/
+✅ 5	Benchmark + log results				Manual or script			results/
